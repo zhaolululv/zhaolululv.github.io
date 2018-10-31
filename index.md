@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Lujin Zhao
+title: student zhao lujin
 description: Lujin Zhao is currently a Graduate student at George Washington University majoring in Data Analysis. 
 keywords: statistics, data analytics
 ---
