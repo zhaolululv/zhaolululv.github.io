@@ -8,7 +8,7 @@ keywords: statistics, data analytics
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/Resume_Lujin_Zhao.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}zhaolululv.github.io/Resume_Lujin_Zhao.pdf">cv</a></li>
           <li><a href="https://github.com/zhaolululv">github</a></li>
           <li><a href="http://kbroman.org/blog">blog</a></li>
           <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">LinkedIn</a></li>
