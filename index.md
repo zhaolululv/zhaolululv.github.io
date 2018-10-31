@@ -1,7 +1,7 @@
 ---
 layout: frontpage
-title: Student Name
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
+title: Lujin Zhao
+description: Lujin Zhao is currently a Graduate student at George Washington University majoring in Data Analysis. 
 keywords: statistics, data analytics
 ---
 
