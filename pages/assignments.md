@@ -54,8 +54,8 @@ Results | Repository
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| * [assignment2 results]()| [assignment2 repositiory]()|
-(https://github.com/zhaolululv/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW2.ipynb)
+| [assignment2 results]((https://github.com/zhaolululv/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW2.ipynb))| [assignment2 repositiory]()|
+
 ---
 
 
