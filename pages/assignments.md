@@ -34,7 +34,7 @@ description: Ben Harvey's assignments
 
 Results | Repository
 ---|---
-[assignment1 results]()| [assignment1 repositiory]()
+[assignment1 results](https://github.com/zhaolululv/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW1.ipynb)| [assignment1 repositiory](https://github.com/zhaolululv/EMSEDataAnalytics/tree/master/EMSE6992_Assignments)
 
 ---
 
@@ -54,7 +54,7 @@ Results | Repository
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment2 results](https://github.com/zhaolululv/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW2.ipynb)| [assignment2 repositiory]()|
+| [assignment2 results](https://github.com/zhaolululv/EMSEDataAnalytics/blob/master/EMSE6992_Assignments/HW2.ipynb)| [assignment2 repositiory](https://github.com/zhaolululv/EMSEDataAnalytics/tree/master/EMSE6992_Assignments)|
 
 ---
 
