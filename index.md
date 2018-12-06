@@ -39,9 +39,7 @@ keywords: statistics, data analytics
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/isletc6_fig4.html">
-        <img src="assets/publpics/model.jpeg" alt="Just my hobby" title="What I do at home"/>
-    </a>
+       <img src="assets/publpics/model.jpeg" alt="Just my hobby" title="What I do at home"/>
   </td>
 </tr>
 </table>
