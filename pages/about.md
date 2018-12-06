@@ -5,7 +5,8 @@ description:
 ---
 
 #### <a name="education"></a>ecucation
-Receive a B.S. degree from University of Maryland, College Park.\M.S. in Economics from Tufts Universiry 
+Receive a B.S. degree from University of Maryland, College Park.\
+M.S. in Economics from Tufts Universiry 
 
 
 #### <a name="cvandresume"></a>cv and resume
