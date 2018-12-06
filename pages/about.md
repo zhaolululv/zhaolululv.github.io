@@ -1,27 +1,16 @@
 ---
 layout: page
 title: about
-description: Benjamin Harvey is...
+description:
 ---
 
-#### <a name="currentposition"></a>current position
-{Insert text here}
-
-
-#### <a name="previousposition"></a>previous positions
-{Insert text here}
-
-
-#### <a name="researchbackground"></a>research background
-{Insert text here}
-
-
 #### <a name="education"></a>ecucation
-{Insert text here}
+{Receive a B.S. degree from University of Maryland, College Park.
+M.S. in Economics from Tufts Universiry }
 
 
 #### <a name="cvandresume"></a>cv and resume
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/bsharvey_cv.pdf)
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)](https://github.com/zhaolululv/zhaolululv.github.io/blob/master/Resume_Lujin_Zhao.pdf)
 
 ---
 
