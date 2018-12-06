@@ -20,7 +20,7 @@ keywords: statistics, data analytics
 
 <table class="wide">
 <tr>
-  <td class="left">Broman
+  <td class="left">
     <a href="pages/publpics/iplotCorr.html">
         <img src="assets/publpics/Thesis.png" alt="Linear Regression  example" title="Linear Regression example"/>
     </a>
