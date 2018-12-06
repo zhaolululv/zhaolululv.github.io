@@ -39,7 +39,7 @@ keywords: statistics, data analytics
     </a>
   </td>
   <td class="right">
-       <img src="assets/publpics/model.jpeg" alt="Just my hobby" title="What I do at home"/>
+       <img src="assets/publpics/modl.jpeg" alt="Just my hobby" title="What I do at home"/>
   </td>
 </tr>
 </table>
