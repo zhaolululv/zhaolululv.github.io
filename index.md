@@ -20,7 +20,7 @@ keywords: statistics, data analytics
 
 <table class="wide">
 <tr>
-  <td class="left">Broman
+  <td class="left">
     <a href="pages/publpics/iplotCorr.html">
         <img src="assets/publpics/Thesis.png" alt="Linear Regression  example" title="Linear Regression example"/>
     </a>
@@ -34,14 +34,12 @@ keywords: statistics, data analytics
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/publpics/samplemixups_fig7.html">
+    <a href="https://github.com/zhaolululv/EMSEDataAnalytics/blob/master/6992">
         <img src="assets/publpics/6992.png" alt=" Logistic Regression" title="Presentation"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/isletc6_fig4.html">
-        <img src="assets/publpics/model.jpeg" alt="Just my hobby" title="What I do at home"/>
-    </a>
+       <img src="assets/publpics/model.jpeg" alt="Just my hobby" title="What I do at home"/>
   </td>
 </tr>
 </table>
