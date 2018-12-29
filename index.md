@@ -20,7 +20,7 @@ keywords: statistics, data analytics
 <tr>
   <td class="left">
     <a href="pages/publpics/iplotCorr.html">
-        <img src="assets/publpics/Thesis.png" alt="Linear Regression  example" title="Linear Regression example"/>
+        <img src="assets/publpics/a.png" alt="Linear Regression  example" title="Linear Regression example"/>
     </a>
   </td>
   <td class="right">
